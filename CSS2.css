@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline;
+    background-color:black;
+    color: bisque;
+    font-size: 20px;
+    margin-right: auto;
+    
+}
+nav{
+    height:40px;
+    background-color:black;
+}
+body{
+    font-family: 'Syne Mono', monospace;
+}
+.hey{
+    background-image: url(https://gta5mod.net/wp-content/uploads/2020/06/Anonymous-HQ.jpg);
+    height: 100vh;
+}
+.hey2{
+    color: antiquewhite;
+    position: absolute;
+    top:50%;
+    left:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+.form .inp{display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-radius: 2rem; */
+    /* border-radius: 50% 20% / 10% 40%; */
+    border-radius: 10px 100px / 120px;
+    padding: .6rem;
+    border: none;
+    outline: none;
+}
+.hey2 button{
+    width: 30%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 30px;
+    background-color:rgb(36, 144, 148);
+    color: bisque;
+    margin-top: 1rem;
+    border-radius: 3rem;
+}
+/* this is 2nd section */
+.img{
+    max-width: 100%;
+}
+.ls1{
+    float: left;
+    width: 30%;
+    margin-left: 2rem;
+}
+.ls{
+    width: 100%;
+    margin-top: 3rem;
+    margin-bottom: -30rem;
+}
+
